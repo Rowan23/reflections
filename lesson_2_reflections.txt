@@ -8,9 +8,13 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	I can check the difference between the stagin area and the las version using diff --staged
+	or just diff
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	where ever a new feature or fix is attempted
+	this allows returning to the master without having a buggy new feature
 
 How do the diagrams help you visualize the branch structure?
 
